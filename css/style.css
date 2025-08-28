@@ -125,10 +125,10 @@ input, textarea{
 
 /*Header*/
 .webp .header{
-    background-image: linear-gradient(rgba(5,7,12,.55), rgba(5,7,12,.55)), url(/img/banner.webp);
+    background-image: linear-gradient(rgba(5,7,12,.55), rgba(5,7,12,.55)), url(https://github.com/Uriel020/Blog-de-Programacion/tree/main/img/banner.webp);
 }
 .no-webp .header{
-    background-image: linear-gradient(rgba(5,7,12,.55), rgba(5,7,12,.55)), url(/img/banner.jpg);
+    background-image: linear-gradient(rgba(5,7,12,.55), rgba(5,7,12,.55)), url(https://github.com/Uriel020/Blog-de-Programacion/tree/main/img/banner.jpg);
 }
 
 .header{
@@ -387,3 +387,4 @@ aside{
     resize: none;
     min-height: 15rem;
 }
+
